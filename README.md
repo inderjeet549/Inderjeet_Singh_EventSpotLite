@@ -5,13 +5,18 @@ This project has a strong emphasis on performance optimization, animations, resp
 
 # Features
 Event Listing: Displays a list of events with key details (name, date, location).
+
 Event Details Modal: Click on an event to view more information in a modal.
+
 Responsive Design: Optimized for desktop, tablet, and mobile views.
+
 Animations: Smooth hover effects, modal transitions, and loading indicators.
+
 Event Countdown: Shows a countdown timer for upcoming events.
 
 # Technologies
 Frontend: React, CSS
+
 Data Handling: JSON for mock data
 
 # Installation
