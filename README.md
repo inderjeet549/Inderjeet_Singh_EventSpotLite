@@ -21,7 +21,9 @@ Data Handling: JSON for mock data
 
 # Installation
 Clone the repository: git clone https://github.com/inderjeet549/Inderjeet_Singh_EventSpotLite.git
+
 Install dependencies: npm install
+
 Start the application: npm start
 
 # Usage
