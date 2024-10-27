@@ -21,5 +21,7 @@ Start the application: npm start
 
 # Usage
 Add Event: Click on "Add Event" to create a new event.
+
 Delete Event: Open an event and click "Delete" to remove it.
+
 Countdown Timer: See the timer on event cards for upcoming events.
